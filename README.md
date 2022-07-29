@@ -16,7 +16,23 @@
 ### `The dark web`
 - The [dark web](https://www.kaspersky.com/resource-center/threats/deep-web) refers to sites that are not indexed and only accessible via specialized web browsers. Significantly smaller than the tiny surface web, the dark web is considered a part of the deep web. Using our ocean and iceberg visual, the dark web would be the bottom tip of the submerged iceberg.
 
-- **No webpage indexing** by surface web search engines. Google and other popular search tools cannot discover or display results for pages within the dark web.
+### `The following are some examples of darknets`
+- [anoNet]
+- [Decentralized Network 42]
+- [Freenet]
+- [GNUnet]
+- [I2P (Invisible Internet Project]
+- [OneSwarm]
+- [RetroShare]
+- [Riffle]
+- [Sydnie]
+- [Tor (The Onion Router]
+- [Tribler]
+- [Zeronet]
+
+
+
+**No webpage indexing** by surface web search engines. Google and other popular search tools cannot discover or display results for pages within the dark web.
 - **“Virtual traffic tunnels”** via a randomized network infrastructure.
 - **Inaccessible by traditional browsers** due to its unique registry operator. Also, it's further hidden by various network security measures like firewalls and encryption.
 
