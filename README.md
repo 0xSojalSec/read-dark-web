@@ -39,7 +39,17 @@
 ### `Events on the Dark Web Although the dark web appears to be a product of the new millennium, it has a long history `![Dark](https://i2.wp.com/darkweb-links.com/wp-content/uploads/2021/12/Timeline-1-576x1024-1.png?w=576&ssl=1)
 
 
+### `Is the Dark Web Safe?
+It is debatable, like most things. Here are some cybersecurity concerns you should think about`
 
+- [Remote administration tools]
+- [Malware]
+- [Hackers]
+- [Phishing scams]
+- [Suspicious links]
+- [Breaking the law]
+- [Criminal element]
+We recommend using any paid VPNs before accessing the TOR network.
 
 
 
