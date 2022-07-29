@@ -30,7 +30,7 @@
 - [Tribler]
 - [Zeronet]
 
-
+- The most used is the Tor network which is easily accessible by anyone by only installing the TOR browser on their devices
 
 **No webpage indexing** by surface web search engines. Google and other popular search tools cannot discover or display results for pages within the dark web.
 - **“Virtual traffic tunnels”** via a randomized network infrastructure.
