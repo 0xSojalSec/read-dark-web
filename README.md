@@ -15,6 +15,9 @@
 
 ### `The dark web`
 - The [dark web](https://www.kaspersky.com/resource-center/threats/deep-web) refers to sites that are not indexed and only accessible via specialized web browsers. Significantly smaller than the tiny surface web, the dark web is considered a part of the deep web. Using our ocean and iceberg visual, the dark web would be the bottom tip of the submerged iceberg.
+### `Dark Web Searching`
+
+- Dark [Web Searching](https://www.osintcombine.com/post/dark-web-searching)
 
 ### `The following are some examples of darknets`
 - [anoNet]
