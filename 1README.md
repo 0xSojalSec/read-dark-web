@@ -175,3 +175,12 @@ http://34vnln24rlakgbk6gpityvljieayyw7q4bhdbbgs6zp2v5nbh345zgad(.)onion/cgi-bin/
 7. http://blkhatjxlrvc5aevqzz5t6kxldayog6jlx5h7glnu44euzongl4fh5ad(.)onion/
 
 
+Github repos with lists of links to .onion zone domains (Part 2):
+
+https://github.com/Scully-D/onion
+https://github.com/RENANZG/My-Onion-Links
+https://github.com/BigggChungus/onion-links
+https://github.com/INFINITRONX/TORLINK
+https://github.com/new-dark-web-links/2024
+https://github.com/lightdarkmaster/OnionLinks
+https://github.com/Hackers4urHelp/Onion-Links-Repository
